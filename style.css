@@ -1,29 +1,29 @@
-cheeseburger {
+#cheeseburger {
   width: 300px;
   margin: 0 auto;
 }
 
-bun {
+.bun {
   background-color: #efc08b;
   width: 300px;
   padding-bottom: 10px;
   text-align: center;
 }
 
-top-bun {
+#top-bun {
   border-radius: 40px 40px 5px 5px;
 }
 
-bottom-bun {
+#bottom-bun {
   border-radius: 5px;
 }
 
-topping {
+.topping {
   text-align: center;
   margin: 0 auto;
 }
 
-pickle {
+.pickle {
   display: inline-block;
   background-color: green;
   padding: 10px;
@@ -31,16 +31,16 @@ pickle {
   border-radius: 10px;
 }
 
-pickle-container  {
+#pickle-container  {
   padding: 0;
 }
 
-cheese {
+#cheese {
   background-color: orange;
   width: 300px;
 }
 
-hamburger {
+#hamburger {
   background-color: brown;
   padding: 5px;
 
